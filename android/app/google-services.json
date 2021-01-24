@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "852544760054",
+    "firebase_url": "https://smart-pestisida.firebaseio.com",
+    "project_id": "smart-pestisida",
+    "storage_bucket": "smart-pestisida.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852544760054:android:5bdb0126086a7203b5a4d7",
+        "android_client_info": {
+          "package_name": "com.example.smart_pestisida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852544760054-1568qr7o3ogj7b9t9ki4n2sanrvs7e0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_pestisida",
+            "certificate_hash": "8f475861b4184a915eeb6ac067e9a1e59a82697b"
+          }
+        },
+        {
+          "client_id": "852544760054-rqc36gbeufdgkif9jqhm15omr0buca3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL9Ot4J0cVnn1DGz_nrC-Yv140HL7Ev4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852544760054-rqc36gbeufdgkif9jqhm15omr0buca3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
